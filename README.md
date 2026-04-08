@@ -1,4 +1,3 @@
-README.md — one page, structured like this:
 
 # KALAM — Welfare Scheme Matching Engine
 ## CBC BITS Pilani | Mission 03 | Backend
